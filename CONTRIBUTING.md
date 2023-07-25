@@ -1,11 +1,18 @@
-# Contributing to X
+# Contributing to the EXPLORE scientific data applications
 
-Thank you for your interest in contributing to the **X** &#8480; application!
+Thank you for your interest in contributing to the EXPLORE&#8480;!
 
-The **X** tool aims to ...
+EXPLORE is developing several different scientific data applications or apps.
+Each app has it's own repository:
 
-This documents is a set of guidelines for contributing to the **X** code on GitHub. These are guidelines, not rules. 
-This guide is meant to make it easy for you to get involved!
+- [https://github.com/explore-platform/g-arch](https://github.com/explore-platform/g-arch)  
+- [https://github.com/explore-platform/g-tomo](https://github.com/explore-platform/g-tomo)  
+- [https://github.com/explore-platform/s-disco](https://github.com/explore-platform/s-disco)  
+- [https://github.com/explore-platform/s-phot](https://github.com/explore-platform/s-phot)  
+- [https://github.com/explore-platform/l-explo](https://github.com/explore-platform/l-explo)  
+- [https://github.com/explore-platform/l-hex](https://github.com/explore-platform/l-hex)  
+
+This documents is a set of guidelines for contributing to the EXPLORE code on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved!
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -30,30 +37,11 @@ Enhancement suggestions are tracked as GitHub issues. After you've determined wh
 
 ### Contributions 
 
-#### License in = license out (option 1)
-
-Contributions from community participants are accepted using the same inbound OSI-approved open source license as the project uses to distribute the resulting work. No CLA (contributor license agreement) is required. 
-
-#### Developer Certificate of Origin (option 2)
-
 EXPLORE adopts the Developer Certificate of Origin ([DCO](https://wiki.linuxfoundation.org/dco)) to facilitate contributions from the community. 
 The Developer Certificate of Origin (DCO) is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project. Here is the full text of the DCO, reformatted for readability: https://developercertificate.org/
 
 We use the [DCO app](https://github.com/apps/dco) to enforce the DCO on Pull Requests.
 It requires all commit messages to contain the Signed-off-by line with an email address that matches the commit author.
-
-#### Contributor License Agreement (CLA) (option 3)
-
-If you want to contribute code (or anything else that might be subject to copyright) to our repository we ask you to sign a Contributor License Agreement (CLA), like many other open source projects. By signing it, you explicitely allow us to use your contribution - the purpose of this process is to have agreed terms for that, and to avoid any misunderstandings.
-
-Signing the CLA is pretty straightforward and does not involve any paperwork - we’re using [CLA Assistant](https://cla-assistant.io/) by SAP SE for it, which means that you can simply sign with few clicks right out of GitHub.
-
-As soon as you create a pull request to be merged into our **greenshot*** repository (or add a commit to an existing pull request), a comment will ask you to sign the CLA. Click the link, carefully read the document and then sign it by clicking the button. That’s it.
-CLA Assistant will not ask you again to sign the CLA unless we apply changes to the agreement.
-
-If you want to learn more about license agreements, you might want to have a look at 
-[contributoragreements.org](http://contributoragreements.org/). 
-The website also offers a license agreement chooser, which we have used to generate EXPLORE's Contributor License Agreement.
 
 ## How to submit changes
 
@@ -75,7 +63,7 @@ If you want to report a problem or make a suggestion, the easiest thing to do is
 
 ## Copyright 
 
-The EXPLORE **X** scientific data application (App) Authors and Contributors. 
+The EXPLORE&#8480; scientific data application (App) Authors and Contributors. 
 The code in this repository is available under the Apache 2.0 license.
 
 ## Service mark (Trademark for services)
