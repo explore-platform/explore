@@ -26,7 +26,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at the milestones in our [roadmap](ROADMAP.md) or browse the [issues](https://gitlab.acri-cwa.fr/project-explore/templates/template/-/issues) to get started!
+Take a look at the milestones in our [roadmap](ROADMAP.md) or browse the [issues](https://github.com/explore-platform/explore/issues) to get started!
 
 
 ## How can I contribute
@@ -55,7 +55,7 @@ First time contributing to open source? Check out the free series [How to Contri
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://gitlab.acri-cwa.fr/project-explore/templates/template/-/issues)!
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/explore-platform/explore/issues)!
 
 ## Communication channels
 
